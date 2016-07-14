@@ -22,7 +22,7 @@ angular.module('UserModule', ['pascalprecht.translate'])
     //     .useMissingTranslationHandlerLog();
     }])
 
-    .factory('UserService', function(){
+    .factory('User', function(){
         'use strict';
         var user = {};
 
