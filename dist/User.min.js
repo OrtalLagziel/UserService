@@ -1,6 +1,6 @@
 /**
  * User
- * @version v0.0.1 - 2016-07-14
+ * @version v0.0.1 - 2016-07-17
  * @link 
  * @author  <>
  * @license MIT License, http://www.opensource.org/licenses/MIT
